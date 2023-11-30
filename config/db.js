@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 mongoose.set("strictQuery", false);
 
-mongoose.connect("mongodb+srv://rajh3282:CT1JW3db5mNRgJMG@db.uu02np9.mongodb.net/your-database-name", {
+mongoose.connect("mongodb+srv://rajh3282:CT1JW3db5mNRgJMG@db.uu02np9.mongodb.net/BEE ST1", {
   // useNewUrlParser: true,
   // useUnifiedTopology: true,
 });
